@@ -1,4 +1,3 @@
 # My-repo1 - yes
-this is my repo1 - hiiii hello world
+this is my repo1
 edited readme in remote repository
-hiiii hello world
